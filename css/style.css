@@ -31,8 +31,9 @@ p{
 
 ul{
     display: table;
-    /*margin: 0 auto;*/
-    margin-left: 865px;
+    margin: 0 auto;
+    /*margin-left: 865px;*/
+    padding:2;
     text-align: left;
 }
 /*hr{
